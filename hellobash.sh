@@ -4,3 +4,4 @@ echo "Second number is:" $NUM2
 SUM=$(($NUM1+$NUM2))
 echo "The Sum is:"
 echo $SUM
+echo $NUM1
